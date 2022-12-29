@@ -1,4 +1,4 @@
-# MOVIES BOX OFFICE ANALYSIS
+# MOVIE BOX OFFICE ANALYSIS
 
 Tools used: Pandas, Pyplot, Seaborn
 
